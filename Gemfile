@@ -51,7 +51,6 @@ gem "sassc-rails"
 gem 'dotenv-rails', groups: [:development, :test]
 # Gemfile
 gem 'cloudinary', '~> 1.16.0'
-# .env
 # Use Sass to process CSS
 # gem "sassc-rails"
 
